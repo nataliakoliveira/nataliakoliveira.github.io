@@ -56,13 +56,14 @@ h2 {
   background-color: #e5989b;
 }
 
-ul li :nth-child(odd)  {
-  background-color: #a2d2ff;
-}
 
 .nav-links li{
   display: inline-block;
   width: 200px;
   font-size: x-large;
 
+}
+li.lista-habilidades:nth-child(odd){
+  background-color: #bde0fe ;
+  
 }
