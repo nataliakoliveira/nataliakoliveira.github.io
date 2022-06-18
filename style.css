@@ -59,3 +59,10 @@ h2 {
 ul li :nth-child(odd)  {
   background-color: #a2d2ff;
 }
+
+.nav-links li{
+  display: inline-block;
+  width: 200px;
+  font-size: x-large;
+
+}
